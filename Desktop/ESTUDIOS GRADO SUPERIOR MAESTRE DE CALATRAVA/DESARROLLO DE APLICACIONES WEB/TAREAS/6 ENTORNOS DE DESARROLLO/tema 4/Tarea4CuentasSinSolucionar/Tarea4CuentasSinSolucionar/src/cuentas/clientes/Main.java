@@ -3,7 +3,7 @@ package cuentas.clientes;
 public class Main {
 
     public static void main(String[] args) {
-        Cuenta cuenta1;
+        Cuenta cuenta;
         double saldoActual;
 
         operativa_cuenta(1.2F);
