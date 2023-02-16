@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Cuenta cuenta;
         double saldoActual;
+        String antonio;
 
         operativa_cuenta(1.2F);
     }
